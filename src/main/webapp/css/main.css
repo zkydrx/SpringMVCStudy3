@@ -1,0 +1,40 @@
+#global {
+    text-align: left;
+    border: 1px solid chartreuse;
+    background: #434343;
+    width: 560px;
+    padding: 20px;
+    margin: 100px auto;
+    font-family: "Source Code Pro Medium";
+    color: #FFFFFF;
+}
+
+form {
+    font: 100% "Ubuntu Mono";
+    min-width: 500px;
+    max-width: 560px;
+    width:520px;
+}
+
+form fieldset {
+    border-color: #ffbc00;
+    border-width:2px;
+    margin:0px;
+}
+
+legend{
+    font-size: 1.5em;
+}
+
+form label{
+    width:240px;
+    display: block;
+    float: left;
+    text-align: right;
+    padding:2px;
+}
+
+#buttons{
+    text-align: center;
+    color: #434343;
+}
